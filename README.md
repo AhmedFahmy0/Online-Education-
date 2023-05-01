@@ -1,5 +1,6 @@
 <div align="center">
-### a Online Education
+### A Online-Education
+<hr>
 
 
 <h3>Screenshots:</h3>
